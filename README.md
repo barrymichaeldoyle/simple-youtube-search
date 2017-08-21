@@ -1,2 +1,3 @@
 # simple-youtube-app
-The GitHub repository for the simple-youtube-app I created on YouTube using React Native with Expo.
+
+This is the Root repo for the simple-youtube-app I created on [My YouTube Channel](https://www.youtube.com/channel/UCAo4vDfOoLoJkOMNZFjl1mA) using React Native with Expo.
