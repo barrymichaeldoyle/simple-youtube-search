@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Simple YouTube Search",
+    "description": "A Simple YouTube Search Application",
+    "slug": "simple-youtube-search",
+    "privacy": "public",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#E62117",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png"
+      // hideExponentText is not featured anymore from SDK 20 and up (it's always hidden)
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.companyname.simpleyoutubesearch",
+      "versionCode": 1,
+      "permissions": []
+    }
+  }
+}

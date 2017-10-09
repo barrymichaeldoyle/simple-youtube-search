@@ -1,0 +1,18 @@
+{
+  "name": "simple-youtube-search",
+  "version": "1.0.0",
+  "description": "A Simple YouTube Search Application",
+  "author": "Barry Michael Doyle",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^21.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-21.0.2.tar.gz",
+    "react-native-elements": "^0.16.0",
+    "youtube-api-search": "0.0.5"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
